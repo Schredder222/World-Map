@@ -816,14 +816,14 @@ var simplemaps_worldmap_mapdata={
       name: "Daegu, KR",
       color: "#d8b217",
       type: "circle",
-      size: "8"
+      size: "6"
     },
     "2": {
       lat: 35.178,
       lng: 129.078,
       name: "Busan, KR",
       color: "#d8b217",
-      size: "8",
+      size: "6",
       type: "circle"
     },
     "3": {
