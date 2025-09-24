@@ -816,20 +816,20 @@ var simplemaps_worldmap_mapdata={
       name: "Daegu, KR",
       color: "#d8b217",
       type: "circle",
-      size: "6"
+      size: "8"
     },
     "2": {
       lat: 35.178,
       lng: 129.078,
       name: "Busan, KR",
       color: "#d8b217",
-      size: "6",
+      size: "8",
       type: "circle"
     },
     "3": {
       lat: "47.999",
       lng: "7.85",
-      name: "Friburg, DE",
+      name: "Freiburg, DE",
       color: "#d8b217",
       size: "8",
       type: "circle"
