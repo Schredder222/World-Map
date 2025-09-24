@@ -816,7 +816,8 @@ var simplemaps_worldmap_mapdata={
       name: "Daegu, KR",
       color: "#d8b217",
       type: "circle",
-      size: "8"
+      size: "8",
+      description: "Lived & worked for 2 years"
     },
     "2": {
       lat: 35.178,
@@ -824,7 +825,8 @@ var simplemaps_worldmap_mapdata={
       name: "Busan, KR",
       color: "#d8b217",
       size: "8",
-      type: "circle"
+      type: "circle",
+      description: "Lived & worked for 6 months"
     },
     "3": {
       lat: "47.999",
@@ -832,7 +834,8 @@ var simplemaps_worldmap_mapdata={
       name: "Freiburg, DE",
       color: "#d8b217",
       size: "8",
-      type: "circle"
+      type: "circle",
+      description: "Lived & studied for 18 months"
     }
   },
   labels: {},
